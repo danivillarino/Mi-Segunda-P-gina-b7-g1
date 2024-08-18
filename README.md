@@ -4,6 +4,7 @@ El presente proyecto es una página que habla sobre el juego OMORI desarrollada 
 
 Fue desarrollado con HTML, CSS y una hoja de estilos externa que incluye presets de animaciones básicas.
 
+`La página empieza por el archivo "omori.html"`
 
 ## Tecnologías
 * HTML
